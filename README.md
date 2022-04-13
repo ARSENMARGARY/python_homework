@@ -1,1 +1,1 @@
-# python_homework
+# python_homework_first_week
